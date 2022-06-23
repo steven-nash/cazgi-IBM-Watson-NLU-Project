@@ -1,5 +1,4 @@
 const express = require('express');
-const dotenv = require('dotenv');
 const app = new express();
 
 /*This tells the server to use the client 
